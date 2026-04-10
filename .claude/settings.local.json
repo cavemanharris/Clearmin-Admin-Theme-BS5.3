@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python _bs5_convert.py)",
+      "Bash(python _clearmin_fix.py)",
+      "Bash(python -c ':*)",
+      "Bash(python:*)",
+      "Bash(del:*)"
+    ]
+  }
+}
