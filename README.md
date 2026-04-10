@@ -1,12 +1,14 @@
 # Clearmin Web Template
 
-![Clearmin template](preview.png)
+![Clearmin template](https://raw.githubusercontent.com/paomedia/clearmin/master/preview.png)
 
 Bootstrap 5 dashboard / webapp / admin template
 
 > Originally a Bootstrap 3 template by Paomedia. Converted to Bootstrap 5.3.4 by Axara Technologies.
 
 **Check the original demo : http://cm.paomedia.com/**
+
+> A big thank you to Arnaud CHESNE for his original theme @ https://github.com/paomedia/clearmin
 
 **More doc inside the repo**
 
